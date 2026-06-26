@@ -1,0 +1,7 @@
+Portfolio Summary
+-----------------
+AMZN : 10 shares @ $150
+TSLA : 8 shares @ $250
+GOOGL : 7 shares @ $140
+
+Total Investment Value = $4480
