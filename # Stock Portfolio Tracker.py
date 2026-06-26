@@ -1,4 +1,4 @@
-# Stock Portfolio Tracker
+Stock Portfolio Tracker
 
 # Hardcoded stock prices
 stock_prices = {
