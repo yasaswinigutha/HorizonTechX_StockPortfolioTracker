@@ -19,3 +19,17 @@ A simple Python project that calculates the total investment value of a stock po
 
 ```bash
 python stock_portfolio_tracker.py
+
+## Author
+
+**Yasaswini Gutha**
+
+B.Tech CSE Student
+
+Python Developer Intern at HorizonTechX
+
+---
+
+##  Acknowledgement
+
+This project was completed as part of the **HorizonTechX Internship Program** to enhance Python programming and problem-solving skills.
