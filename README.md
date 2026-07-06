@@ -1,4 +1,4 @@
-# Stock Portfolio Tracker
+# HorizonTechX_Stock Portfolio Tracker
 
 ## Description
 A simple Python project that calculates the total investment value of a stock portfolio.
